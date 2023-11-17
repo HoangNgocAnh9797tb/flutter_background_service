@@ -1,0 +1,2 @@
+# flutter_background_service
+Change foregroundServiceType
